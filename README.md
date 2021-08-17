@@ -4,8 +4,8 @@ A FiveM script written in LUA that implements the /me command that appears in ch
 # Steps on installing
 * Drag and drop the resource into your resource folder
 * Add the following lines in server.cfg
+
 ```
-# chat command #
 ensure fivem-3dme
 ```
 
