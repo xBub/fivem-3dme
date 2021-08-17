@@ -8,9 +8,6 @@ A FiveM script written in LUA that implements the /me command that appears in ch
 # chat command #
 ensure fivem-3dme
 ```
-* start the server
-* ensure you have admin perms
-* run /clearchat and boom your done
 
 # Support
 [Discord Server](https://discord.gg/Y3X2FgjSXv)
